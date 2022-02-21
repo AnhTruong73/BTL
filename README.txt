@@ -1,0 +1,7 @@
+- Python yêu cầu phiên bản 3.9
+- Chạy trên nền tảng python notebook
+- Yêu cầu có bộ dataset "clean_data.csv"
+- demo_BI.ipynb là file áp dụng 4 giải thuật và đánh giá độ chính xác
+- Yêu cầu cài dặt thự viện scikit-learn
+- Cài đặt thư viện numpy
+- Cài đặt thư viện maplotlib
